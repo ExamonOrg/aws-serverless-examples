@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "handler1"
+version = "1.0.0"
+description = "Handler"
+authors = ["Jarrod Folino <jdfolino@icloud.com>"]
+packages = [{include = "src"}]
+
+[tool.poetry.dependencies]
+python = "^3.10.11"
+aws-lambda-powertools = {extras = ["aws-sdk"], version = "^2.25.1"}
+aws-xray-sdk = "^2.12.0"
+boto3 = "^1.28.64"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
