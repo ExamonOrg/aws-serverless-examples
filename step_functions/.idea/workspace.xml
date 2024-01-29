@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="eb19e2f6-d6df-459b-bd39-f039e3aea1c2" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../policy/main.tf" beforeDir="false" afterPath="$PROJECT_DIR$/../policy/main.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/parallel/main.tf" beforeDir="false" afterPath="$PROJECT_DIR$/parallel/main.tf" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="2aX4c4XQhagKUX2pwvL97kplgBo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/Users/jarrod.folino/Dev/examon-proj/experiments/step_functions"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eb19e2f6-d6df-459b-bd39-f039e3aea1c2" name="Changes" comment="" />
+      <created>1704451666080</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1704451666080</updated>
+    </task>
+    <servers />
+  </component>
+</project>
